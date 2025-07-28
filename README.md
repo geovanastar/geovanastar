@@ -17,7 +17,6 @@
   <img aling="center" alt="Geovana-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img aling="right" alt="gif-fofo" height="100" width="130" src="https://cdn.discordapp.com/attachments/1370579294430167142/1399227324192391210/LINE_Official_Stickers_-_Plo__Chubby_White_Bear_Example_with_GIF_Animation_298.gif?ex=68883b7e&is=6886e9fe&hm=bcbb7ceba9c7013d629ed4e087e398c171e5f5e841bb7eb124bcf176f19cf9cf&">
 </div>
-☆*: .｡. o☆o .｡.:*☆☆*: .｡. o☆o .｡.:*☆☆*: .｡. o☆o .｡.:*☆☆*: .｡. o☆o .｡.:*☆
 
 ##
 
@@ -27,3 +26,4 @@
   <a href="mailto:geogabriella22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https:/ww.linkedin.com/in/geovana-estrela-0a424729a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+☆*: .｡. o☆o .｡.:*☆☆*: .｡. o☆o .｡.:*☆☆*: .｡. o☆o .｡.:*☆☆*: .｡. o☆o .｡.:*☆
