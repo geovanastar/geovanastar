@@ -4,12 +4,12 @@
 - 🔭 Hoje eu estou cursando Ciência da Computação no 2° período
 - 🎆 Estudando Javascript, typescript e C#
 - 🦋 pronouns: Ela/Dela
-- 
+
 ☆*: .｡. o☆o .｡.:*☆☆*: .｡. o☆o .｡.:*☆
 <div>
   <a href="https://beacons.ai/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanastar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanastar&layout=compact&langs_count=16&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanastar&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img aling="center" alt="Geovana-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
