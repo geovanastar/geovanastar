@@ -1,4 +1,4 @@
-## Olá, eu sou a Geovana Estrela 💫
+## Olá, meu nome é Geovana Estrela 💫
 ☆*: .｡. o☆o .｡.:*☆☆*: .｡. o☆o .｡.:*☆
 
 - 🔭 Hoje eu estou cursando Ciência da Computação no 2° período
