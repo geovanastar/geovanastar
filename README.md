@@ -2,7 +2,7 @@
 ☆*: .｡. o☆o .｡.:*☆☆*: .｡. o☆o .｡.:*☆
 
 - 🔭 Hoje eu estou cursando Ciência da Computação no 2° período
-- 🎆 Estudando Javascript, typescript e C#
+- 🎆 Estudando Javascript, typescript, PHP e C
 - 🦋 pronouns: Ela/Dela
 
 ☆*: .｡. o☆o .｡.:*☆☆*: .｡. o☆o .｡.:*☆
