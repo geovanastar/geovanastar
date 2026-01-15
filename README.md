@@ -13,7 +13,7 @@
 #
 
 <div align="center" width="100%">
-  <b>`プ ロ グ ラ マ`</b>
+  <h2>`プ ロ グ ラ マ`</h2>
   <br>
   <br>
   <br>
